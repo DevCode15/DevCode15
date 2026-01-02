@@ -18,6 +18,9 @@
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge)
+![Firebird](https://img.shields.io/badge/Firebird-FF6600?style=for-the-badge)
+![IBExpert](https://img.shields.io/badge/IBExpert-1E90FF?style=for-the-badge)
 
 ### ⚙️ Ferramentas & Práticas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
