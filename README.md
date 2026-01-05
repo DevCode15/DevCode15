@@ -29,7 +29,6 @@
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![IBExpert](https://img.shields.io/badge/IBExpert-1E90FF?style=for-the-badge)
 ---
 
 ### 📬 Contato
