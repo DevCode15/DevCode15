@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Mesaque
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-📘 Cursando MBA em **Gestão de Projetos e Metodologias Ágeis** pela **PUCRS**  
+📚 MBA em **Gestão de Projetos e Metodologias Ágeis** pela **PUCRS**  
 💻 Entusiasta por tecnologia, desenvolvimento web e metodologias ágeis  
 🚀 Sempre em busca de novos desafios e aprendizados
 
